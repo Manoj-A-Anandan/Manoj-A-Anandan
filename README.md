@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Manoj A Anandan  
+# 👋 Hi there! I'm Manoj A 
 
 🚀 **Machine Learning Enthusiast | Python Developer | Data Visualization Specialist | Web Developer**  
 📍 **Coimbatore, India**  
