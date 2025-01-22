@@ -48,8 +48,7 @@
 
 ## 💬 Ask Me About
 - Machine Learning and Explainable AI  
-- DevOps practices and integrations  
-- Full-stack development with React and Django  
+- DevOps practices and integrations
 - Building scalable MLOps pipelines  
 
 ---
@@ -64,7 +63,7 @@
 ## 📫 How to reach me
 - 📧 Email: [manoj.a.anandan@example.com](mailto:manoj.a.anandan@example.com)  
 - 🌐 [LinkedIn](https://linkedin.com/in/manoj-a-anandan)  
-- 🐦 [Twitter](https://twitter.com/Manoj-A-Anandan)  
+- 🐦 [Leetcode](https://leetcode.com/u/manoj55802/)  
 
 ---
 
