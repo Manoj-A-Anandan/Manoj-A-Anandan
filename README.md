@@ -68,7 +68,7 @@
 ---
 
 ## ⚡ Fun Facts
-- I’m a problem-solving enthusiast with a badge for completing **50 days of challenges on LeetCode**!  
+- I’m a problem-solving enthusiast with a completion of  **400+ problems on LeetCode**!  
 - Always experimenting with the latest technologies to create something unique and impactful.  
 
 ---
@@ -77,7 +77,7 @@
 - **Languages**: Python, Java, CSS  
 - **Frameworks & Tools**: Django, React, Streamlit, Gradio  
 - **DevOps**: Docker, Jenkins, GitHub, CI/CD  
-- **Libraries**: scikit-learn, TensorFlow, PyTorch, H2O.ai  
+- **Libraries**: scikit-learn, TensorFlow, PyTorch, Keras, numpy, pandas
 
 ---
 
